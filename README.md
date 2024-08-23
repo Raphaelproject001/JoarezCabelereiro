@@ -52,7 +52,7 @@
 <body>
     <header>
         <h1>Salão Joarez Cabeleireiro</h1>
-        <p>Bairro Pio XII, Juazeiro do Norte, CE</p>
+        <p>Rua Coronel Nery N°71,Bairro Pio XII, Juazeiro do Norte, CE</p>
     </header>
     
     <nav>
@@ -88,9 +88,9 @@
 
         <section id="contato">
             <h2>Contato</h2>
-            <p>Telefone: (xx) xxxx-xxxx</p>
-            <p>Email: contato@joarezcabeleireiro.com.br</p>
-            <p>Endereço: Bairro Pio XII, Juazeiro do Norte, CE</p>
+            <p>Telefone: (88)9 8847-9673</p>
+            <p>Email: joarezbelo3@gmail.com</p>
+            <p>Endereço: Rua Coronel Nery N°71,Bairro Pio XII, Juazeiro do Norte, CE</p>
         </section>
 
         <section id="agendamento">
