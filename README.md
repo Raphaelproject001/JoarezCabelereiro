@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salão Joares Cabeleireiro</title>
+    <title>Salão Joarez Cabeleireiro</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -51,7 +51,7 @@
 </head>
 <body>
     <header>
-        <h1>Salão Joares Cabeleireiro</h1>
+        <h1>Salão Joarez Cabeleireiro</h1>
         <p>Bairro Pio XII, Juazeiro do Norte, CE</p>
     </header>
     
@@ -66,7 +66,7 @@
     <div class="container">
         <section id="sobre">
             <h2>Sobre Nós</h2>
-            <p>Bem-vindo ao Salão Joares Cabeleireiro! Oferecemos serviços de beleza de alta qualidade com uma equipe experiente e dedicada. Nossa missão é fazer você se sentir e parecer incrível.</p>
+            <p>Bem-vindo ao Salão Joarez Cabeleireiro! Oferecemos serviços de beleza de alta qualidade com uma equipe experiente e dedicada. Nossa missão é fazer você se sentir e parecer incrível.</p>
         </section>
 
         <section id="servicos">
@@ -89,7 +89,7 @@
         <section id="contato">
             <h2>Contato</h2>
             <p>Telefone: (xx) xxxx-xxxx</p>
-            <p>Email: contato@joarescabeleireiro.com.br</p>
+            <p>Email: contato@joarezcabeleireiro.com.br</p>
             <p>Endereço: Bairro Pio XII, Juazeiro do Norte, CE</p>
         </section>
 
